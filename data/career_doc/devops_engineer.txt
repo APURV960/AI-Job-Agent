@@ -1,0 +1,19 @@
+DevOps engineers automate deployment pipelines and manage infrastructure.
+
+Key skills required:
+- Linux administration
+- Docker and containerization
+- Kubernetes
+- CI/CD pipelines
+- Cloud platforms (AWS, GCP, Azure)
+- Infrastructure as code
+
+Common tools:
+- Jenkins
+- GitHub Actions
+- Terraform
+- Prometheus
+- Grafana
+
+Common career progression:
+System administrator → DevOps engineer → Site reliability engineer → Infrastructure architect

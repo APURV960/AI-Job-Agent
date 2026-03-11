@@ -26,3 +26,6 @@ Thumbs.db
 
 # Project-specific ignores
 mc.py
+
+
+testdb.py

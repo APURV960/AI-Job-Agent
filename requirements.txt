@@ -8,3 +8,5 @@ scikit-learn
 aiohttp
 python-dotenv
 google-generativeai
+psycopg2-binary
+faiss-cpu

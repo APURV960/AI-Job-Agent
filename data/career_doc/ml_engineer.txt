@@ -1,0 +1,12 @@
+Machine learning engineers build predictive models and AI systems.
+
+Key skills required:
+- Python
+- Machine learning algorithms
+- TensorFlow or PyTorch
+- Data preprocessing
+- Model deployment
+- Docker and Kubernetes
+
+Common career progression:
+Data analyst -> ML engineer -> AI engineer

@@ -1,0 +1,18 @@
+Cloud engineers design and maintain scalable cloud infrastructure.
+
+Key skills required:
+- AWS, Azure, or GCP
+- Infrastructure automation
+- Networking fundamentals
+- Container orchestration
+- Cloud security
+- Monitoring and logging
+
+Common tools:
+- AWS CloudFormation
+- Terraform
+- Kubernetes
+- CloudWatch
+
+Common career progression:
+Cloud engineer → Senior cloud engineer → Cloud architect → Infrastructure director

@@ -1,0 +1,18 @@
+Data scientists analyze large datasets to extract insights and build predictive models.
+
+Key skills required:
+- Python or R
+- Statistics and probability
+- Machine learning algorithms
+- Data visualization
+- SQL and data querying
+- Feature engineering
+
+Common tools:
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Jupyter notebooks
+
+Common career progression:
+Data analyst → Data scientist → Senior data scientist → AI specialist

@@ -1,0 +1,19 @@
+Data engineers build pipelines that process and store large volumes of data.
+
+Key skills required:
+- Python or Scala
+- SQL
+- ETL pipeline development
+- Distributed systems
+- Data warehousing
+- Big data tools
+
+Common tools:
+- Apache Spark
+- Kafka
+- Airflow
+- Snowflake
+- Hadoop
+
+Common career progression:
+Data analyst → Data engineer → Senior data engineer → Data platform architect

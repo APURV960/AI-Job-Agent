@@ -1,0 +1,19 @@
+AI engineers design intelligent systems that use machine learning and deep learning.
+
+Key skills required:
+- Python programming
+- Deep learning frameworks
+- Model optimization
+- AI system deployment
+- Data preprocessing
+- API integration
+
+Common tools:
+- TensorFlow
+- PyTorch
+- Hugging Face
+- ONNX
+- MLflow
+
+Common career progression:
+Machine learning engineer → AI engineer → Senior AI engineer → AI research scientist

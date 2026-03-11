@@ -1,0 +1,18 @@
+Backend developers build and maintain server-side logic for applications.
+
+Key skills required:
+- Python, Java, Node.js, or Go
+- REST API design
+- Database management (SQL / NoSQL)
+- Authentication and security
+- Server deployment
+- Microservices architecture
+
+Common tools:
+- Django / Flask
+- Spring Boot
+- Express.js
+- PostgreSQL / MongoDB
+
+Common career progression:
+Junior backend developer → Backend developer → Senior backend engineer → Software architect

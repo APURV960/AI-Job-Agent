@@ -1,0 +1,19 @@
+Frontend developers build the user interface and client-side experience of applications.
+
+Key skills required:
+- HTML and CSS
+- JavaScript
+- React or Angular
+- UI/UX principles
+- Browser debugging
+- Responsive design
+
+Common tools:
+- React
+- Next.js
+- Tailwind CSS
+- Webpack
+- Chrome DevTools
+
+Common career progression:
+Junior frontend developer → Frontend developer → Senior frontend engineer → UI architect
