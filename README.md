@@ -133,8 +133,8 @@ CareerLens
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/AI-Job-Agent.git
-cd AI-Job-Agent
+git clone https://github.com/yourusername/CareerLens.git
+cd CareerLens
 ```
 
 Create virtual environment:
