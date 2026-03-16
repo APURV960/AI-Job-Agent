@@ -10,12 +10,12 @@ def save_jobs(jobs):
     df = pd.DataFrame(jobs)
 
     desired_columns = [
-        "company",
-        "title",
-        "location",
-        "match_score",
-        "job_skills",
-        "url"
+        "Company",
+        "Title",
+        "Location",
+        "Match_Score",
+        "Job_Skills",
+        "Url"
     ]
 
     # keep only columns that exist
