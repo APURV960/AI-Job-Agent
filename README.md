@@ -1,4 +1,4 @@
-# AI Job Agent
+# CareerLens
 
 An **AI-powered career assistant** that analyzes a user's resume, discovers relevant job opportunities, identifies skill gaps, and automatically generates tailored cover letters.
 
