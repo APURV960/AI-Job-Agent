@@ -75,7 +75,7 @@ Results Export + Memory Storage
 # Project Structure
 
 ```
-AI-Job-Agent
+CareerLens
 │
 ├ data
 │   └ career_docs/           # Knowledge base for RAG
